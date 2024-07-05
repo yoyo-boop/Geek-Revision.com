@@ -1,0 +1,51 @@
+h1{
+    font-size: 50px;
+    background-color: rgb(44, 205, 223);
+    text-align: center;
+}
+#co{
+    font-size: 20px;
+}
+form{
+    font-size: 30px;
+    border: 2px solid;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+}
+input{
+    font-size: 30px;
+    padding: 5px;
+    margin: 10px;
+}
+#no{
+    text-decoration: none;
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: rgb(44, 205, 223);
+    color: black;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+#no:hover{
+    background-color: rgb(44, 119, 223);
+}
+#opa{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#sim{
+    font-size: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    text-decoration: none;
+}
+#cu{
+    font-size: 20px;
+    text-align: center;
+ }
+ #do{
+    display: inline-flex;
+ }
